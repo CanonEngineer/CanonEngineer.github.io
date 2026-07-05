@@ -6,7 +6,7 @@
 
 ### Network Analyst • Developer • Cybersecurity Enthusiast
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue?style=for-the-badge&logo=github)](https://canonvortigen.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-blue?style=for-the-badge&logo=github)](https://canonengineer.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/CanonEngineer)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](https://canonvortigen.github.io)
 
