@@ -162,3 +162,9 @@ counters.forEach(counter => {
 
     update();
 });
+
+fetch("https://api.countapi.xyz/hit/canon-portfolio/visits")
+  .then(res => res.json())
+  .then(data => {
+      console.log("Visitas:", data.value);
+  });
