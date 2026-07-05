@@ -1211,3 +1211,20 @@ body.light {
         padding: 60px 20px !important;
     }
 }
+
+#sideNav {
+    position: relative !important;
+    width: 100% !important;
+    height: auto !important;
+}
+
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+    overflow-x: hidden !important;
+}
+
+.container-fluid {
+    margin: 0 !important;
+    padding: 0 !important;
+}
