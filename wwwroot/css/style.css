@@ -1184,3 +1184,30 @@ body.light {
         overflow-x: hidden;
     }
 }
+
+@media (max-width: 768px) {
+
+    #sideNav {
+        position: relative !important;
+        width: 100% !important;
+        height: auto !important;
+    }
+
+    body {
+        margin: 0 !important;
+        padding: 0 !important;
+        overflow-x: hidden !important;
+    }
+
+    .container-fluid,
+    .container-fluid.p-0 {
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
+
+    section {
+        width: 100% !important;
+        margin: 0 !important;
+        padding: 60px 20px !important;
+    }
+}
