@@ -1064,3 +1064,23 @@ footer {
 html {
     scroll-padding-top: 90px;
 }
+/* =========================
+   DARK / LIGHT MODE
+========================= */
+
+body.light {
+    --background: #f8fafc;
+    --text: #0f172a;
+    --text-secondary: #334155;
+    --surface: rgba(255,255,255,.85);
+    background: #f1f5f9;
+}
+
+.theme-toggle {
+    background: rgba(255,255,255,.08);
+    border: 1px solid rgba(255,255,255,.1);
+    color: white;
+    padding: 10px 14px;
+    border-radius: 12px;
+    cursor: pointer;
+}
